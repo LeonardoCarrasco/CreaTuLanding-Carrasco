@@ -1,5 +1,6 @@
 
-const ProductCard = (props) => {
+import { Link } from "react-router-dom";
+const ProductCard = ({ product, onselectedProduct }) => {
     return (
         <div style={{
             border: '1px solid #ddd',
@@ -10,8 +11,8 @@ const ProductCard = (props) => {
             boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)'
         }}>
             <img 
-                src={props.image} 
-                alt={props.description} 
+                src={product.imagen} 
+                alt={product.descripcion} 
                 style={{
                     width: '100%',
                     height: '260px',
@@ -19,12 +20,23 @@ const ProductCard = (props) => {
                     borderRadius: '8px'
                 }}
             />
-            <h3 style={{ margin: '16px 0', fontSize: '15px', color: '#333' }}>
-                {props.description}
+            <h2 style={{ margin: '16px 0', fontSize: '18px', color: '#333' }}>
+                {product.nombre}
+            </h2>
+            <h3 style={{ margin: '16px 0', fontSize: '15px', color: '#333', fontWeight: 'lighter' }}>
+                {product.descripcion_corta}
             </h3>
             <p style={{ fontSize: '16px', fontWeight: 'bold', color: '#007BFF' }}>
-                ${props.price}
+                ${product.precio}
             </p>
+
+            <div>
+                <Link to={`/productos/${product.id}`}>
+                    <button>
+                    +info
+                    </button>
+                </Link>
+            </div>
         </div>
     );
 };

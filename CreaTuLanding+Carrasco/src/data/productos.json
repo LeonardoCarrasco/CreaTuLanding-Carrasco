@@ -1,0 +1,150 @@
+[
+    {
+      "id": 1,
+      "nombre": "Fernet Branca",
+      "categoria": "Licores",
+      "descripcion_corta": "Licor amargo italiano de hierbas, popular en Argentina.",
+      "descripcion_larga": "Fernet Branca es un licor amargo italiano de hierbas, muy popular en Argentina, especialmente cuando se mezcla con cola. Su sabor distintivo lo convierte en una bebida emblemática de la cultura argentina.",
+      "precio": 9000,
+      "imagen": "/assets/images/productos-assets/fernetbranca.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Cerveza Quilmes",
+      "categoria": "Cervezas",
+      "descripcion_corta": "Cerveza lager argentina de sabor suave y refrescante.",
+      "descripcion_larga": "Quilmes es una de las cervezas más consumidas en Argentina, conocida por su sabor suave y refrescante. Es la elección preferida en reuniones sociales y eventos deportivos.",
+      "precio": 500,
+      "imagen": "/assets/images/productos-assets/cerveza-quilmes.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Malbec",
+      "categoria": "Vinos",
+      "descripcion_corta": "Vino tinto argentino de cuerpo robusto y sabor afrutado.",
+      "descripcion_larga": "El Malbec argentino es reconocido mundialmente por su sabor afrutado y cuerpo robusto. Es el acompañante ideal para carnes asadas y platos tradicionales de la gastronomía argentina.",
+      "precio": 15000,
+      "imagen": "/assets/images/productos-assets/malbec.png"
+    },
+    {
+      "id": 4,
+      "nombre": "Coca-Cola",
+      "categoria": "Refrescos",
+      "descripcion_corta": "Bebida gaseosa de cola, refrescante y ampliamente consumida.",
+      "descripcion_larga": "Coca-Cola es una bebida gaseosa de cola que se consume ampliamente en Argentina. Su sabor dulce y burbujeante la convierte en una opción popular en cualquier ocasión.",
+      "precio": 400,
+      "imagen": "/assets/images/productos-assets/coca-cola.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Sprite",
+      "categoria": "Refrescos",
+      "descripcion_corta": "Refresco de sabor limón-lima, ideal para refrescarse.",
+      "descripcion_larga": "Sprite es una bebida gaseosa de sabor limón-lima, refrescante y popular en Argentina. Su sabor cítrico y burbujeante la hace perfecta para acompañar comidas o disfrutar sola.",
+      "precio": 400,
+      "imagen": "/assets/images/productos-assets/sprite.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Cerveza Patagonia",
+      "categoria": "Cervezas",
+      "descripcion_corta": "Cerveza artesanal argentina con sabores únicos.",
+      "descripcion_larga": "Patagonia es una cerveza artesanal argentina que ofrece una variedad de sabores únicos. Sus cervezas de alta calidad son elaboradas con ingredientes seleccionados y técnicas tradicionales.",
+      "precio": 800,
+      "imagen": "/assets/images/productos-assets/cerveza-patagonia.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Vino Torrontés",
+      "categoria": "Vinos",
+      "descripcion_corta": "Vino blanco argentino aromático y afrutado.",
+      "descripcion_larga": "El Torrontés es un vino blanco argentino conocido por su aroma floral y sabor afrutado. Es una bebida refrescante que marida perfectamente con platos ligeros y mariscos.",
+      "precio": 12000,
+      "imagen": "/assets/images/productos-assets/vino-torronte.png"
+    },
+    {
+      "id": 8,
+      "nombre": "Fanta",
+      "categoria": "Refrescos",
+      "descripcion_corta": "Bebida gaseosa de sabor naranja, dulce y refrescante.",
+      "descripcion_larga": "Fanta es una bebida gaseosa de sabor naranja, muy consumida en Argentina. Su sabor dulce y burbujeante la convierte en una opción popular entre jóvenes y adultos.",
+      "precio": 500,
+      "imagen": "/assets/images/productos-assets/fanta.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Cerveza Imperial",
+      "categoria": "Cervezas",
+      "descripcion_corta": "Cerveza argentina de sabor fuerte y cuerpo robusto.",
+      "descripcion_larga": "Imperial es una cerveza argentina conocida por su sabor fuerte y cuerpo robusto. Es la elección preferida de quienes disfrutan de cervezas con mayor intensidad de sabor.",
+      "precio": 700,
+      "imagen": "/assets/images/productos-assets/cerveza-imperial.jpg"
+    },
+    {
+      "id": 10,
+      "nombre": "Vino Cabernet Sauvignon",
+      "categoria": "Vinos",
+      "descripcion_corta": "Vino tinto argentino de sabor intenso y taninos firmes.",
+      "descripcion_larga": "El Cabernet Sauvignon argentino es reconocido por su sabor intenso y taninos firmes. Es un vino de cuerpo completo que marida perfectamente con carnes rojas y quesos curados.",
+      "precio": 20000,
+      "imagen": "/assets/images/productos-assets/vino-cabernet.jpeg"
+    },
+    {
+      "id": 11,
+      "nombre": "Amargo Obrero",
+      "categoria": "Licores",
+      "descripcion_corta": "Aperitivo argentino de sabor amargo y herbal.",
+      "descripcion_larga": "El Amargo Obrero es un aperitivo argentino de sabor amargo y herbal, elaborado con una mezcla de hierbas y especias. Es ideal para disfrutar solo o como base para cócteles.",
+      "precio": 10000,
+      "imagen": "/assets/images/productos-assets/amargo-obrero.jpg"
+    },
+    {
+      "id": 12,
+      "nombre": "Vermouth",
+      "categoria": "Licores",
+      "descripcion_corta": "Aperitivo italiano de vino aromatizado con hierbas.",
+      "descripcion_larga": "El Vermouth es un aperitivo italiano de vino aromatizado con hierbas y especias. En Argentina, se disfruta tradicionalmente como aperitivo antes de las comidas.",
+      "precio": 7500,
+      "imagen": "/assets/images/productos-assets/Vermouth.jpg"
+    },
+    {
+      "id": 13,
+      "nombre": "Cerveza Schneider",
+      "categoria": "Cervezas",
+      "descripcion_corta": "Cerveza argentina de sabor maltoso y cuerpo medio.",
+      "descripcion_larga": "Schneider es una cerveza argentina de sabor maltoso y cuerpo medio. Es una opción versátil que se adapta a diferentes gustos y ocasiones.",
+      "precio": 650,
+      "imagen": "/assets/images/productos-assets/cerveza-schneider.jpg"
+    },
+    {
+        "id": 14,
+        "nombre": "Vino Syrah",
+        "categoria": "Vinos",
+        "descripcion_corta": "Vino tinto argentino de sabor especiado y afrutado.",
+        "descripcion_larga": "El Syrah argentino es un vino tinto de sabor especiado y afrutado, con notas de frutos rojos y especias. Es ideal para acompañar carnes asadas y platos con salsas intensas.",
+        "precio": 16000,
+        "imagen": "/assets/images/productos-assets/vino-syrah.jpg"
+      },
+      {
+        "id": 15,
+        "nombre": "Cerveza Antares",
+        "categoria": "Cervezas",
+        "descripcion_corta": "Cerveza artesanal argentina con sabores únicos.",
+        "descripcion_larga": "Antares es una cervecería artesanal argentina que ofrece una variedad de cervezas con sabores únicos, elaboradas con ingredientes seleccionados y técnicas tradicionales.",
+        "precio": 850,
+        "imagen": "/assets/images/productos-assets/cerveza-antares.png"
+      },
+      {
+        "id": 16,
+        "nombre": "Gancia",
+        "categoria": "Licores",
+        "descripcion_corta": "Aperitivo argentino de sabor dulce y afrutado.",
+        "descripcion_larga": "Gancia es un aperitivo argentino de sabor dulce y afrutado, elaborado con una mezcla de hierbas y frutas. Es ideal para disfrutar solo o como base para cócteles.",
+        "precio": 7000,
+        "imagen": "/assets/images/productos-assets/gancia.jpg"
+      }
+
+]
+    
+   
+  
