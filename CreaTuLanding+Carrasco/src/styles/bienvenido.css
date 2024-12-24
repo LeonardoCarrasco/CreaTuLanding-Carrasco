@@ -21,7 +21,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url(public/assets/images/fondo-principal.jpg), radial-gradient(circle, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 1));; /* Reemplaza esta URL con la ruta de tu imagen */
+    background-image: url(../assets/images/fondo-principal.jpg), radial-gradient(circle, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 1));; /* Reemplaza esta URL con la ruta de tu imagen */
     background-size: cover;
     background-position: center;
     filter: blur(4px); 
